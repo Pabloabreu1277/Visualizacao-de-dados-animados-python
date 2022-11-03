@@ -3,4 +3,8 @@ Project finished. Projeto com o framework Plotly onde consigo gerar uma visualiz
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="center" height="750" alt="coding-time" src="">
+    <img align="center" height="250" alt="coding-time" src="LifeExp.gif">
+    <img align="center" height="250" alt="coding-time" src="LifeExpvsGDP.gif">
+    <img align="center" height="250" alt="coding-time" src="LifeExpvsGDPScatter.gif">
+    <img align="center" height="250" alt="coding-time" src="Pop.gif">
+   
